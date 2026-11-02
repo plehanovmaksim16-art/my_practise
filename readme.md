@@ -1,1 +1,1 @@
-hexlet2
+I study git with 0
